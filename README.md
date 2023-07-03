@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+while(life()) { 
+
+	wakeup(); 
+	eating(); 
+	coding(); 
+	sleeping(); 
+		if(isAweekend()){ 
+			socialLife(); 
+
+		} 
+
+}
