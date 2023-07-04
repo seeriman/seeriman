@@ -24,5 +24,4 @@ while(life()) {
 			socialLife(); 
 
 		} 
-
 }
